@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7e72144755a3e2441ae19877bf864c31
+timeCreated: 1530641054
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dancing Script OT
+  fontNames:
+  - Dancing Script OT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

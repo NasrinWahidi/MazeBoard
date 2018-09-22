@@ -1,0 +1,64 @@
+D:\Unity Project\New Unity Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Unity Project\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Unity Project\New Unity Project\Temp\bin\Debug\nunit.framework.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\Mono.Cecil.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.xml
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEditor.xml
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Unity Project\New Unity Project\Temp\bin\Debug\nunit.framework.xml
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Unity Project\New Unity Project\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Unity Project\New Unity Project\obj\Debug\Assembly-CSharp.dll
+D:\Unity Project\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+D:\Unity Project\BoardBall\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Unity Project\BoardBall\Temp\bin\Debug\nunit.framework.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEditor.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\Mono.Cecil.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.xml
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEditor.xml
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Unity Project\BoardBall\Temp\bin\Debug\nunit.framework.xml
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Unity Project\BoardBall\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Unity Project\BoardBall\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Unity Project\BoardBall\obj\Debug\Assembly-CSharp.dll
+D:\Unity Project\BoardBall\obj\Debug\Assembly-CSharp.pdb
